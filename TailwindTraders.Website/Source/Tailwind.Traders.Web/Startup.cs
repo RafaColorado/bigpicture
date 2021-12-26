@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Tailwind.Traders.Web.Standalone;
-// Change #4
+// Change #4 for the secon time
 namespace Tailwind.Traders.Web
 {
     public class Startup
