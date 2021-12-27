@@ -27,4 +27,4 @@ jobs:
         dotnet build --configuration Release
         dotnet test --configuration Release
         dotnet publish -c Release -o publish
-// test2
+// test3
